@@ -1,0 +1,19 @@
+
+img {
+    height: 100px;
+}
+
+.btc {
+    display: inline;
+    float: left;
+}
+
+h2 {
+    position: relative;
+    color: orange;
+    display: inline;
+    vertical-align: center;
+    padding-left: 15px;
+    padding-top: 15px;
+    
+}
